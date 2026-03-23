@@ -12,7 +12,7 @@
 
 | Segment                         | Map                              | Programm                         | Cycles | Nodes | Instructions |
 | ------------------------------- | -------------------------------- | -------------------------------- | ------ | ----- | ------------ |
-| Self-test diagnostic (00150)    | [00150.0](loesungen/00150.0.txt) | [00150.0](loesungen/00150.0.txt) | 83     | 8     | 8            |
+| Self-test diagnostic (00150)    | [00150.0](loesungen/00150.0.jpg) | [00150.0](loesungen/00150.0.txt) | 83     | 8     | 8            |
 | Signal amplifier (10981)        | [10981.0](loesungen/10981.0.jpg) | [10981.0](loesungen/10981.0.txt) | 160    | 4     | 6            |
 |                                 | [10981.1](loesungen/10981.1.jpg) | [10981.1](loesungen/10981.1.txt) | 84     | 5     | 10           |
 | Differential converter (20176)  | [20176.0](loesungen/20176.0.jpg) | [20176.0](loesungen/20176.0.txt) | 201    | 5     | 11           |
